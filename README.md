@@ -7,4 +7,6 @@ All caps should be greater than 12V, diode should be at least 3A, and the induct
 
 Made with Eagle 9.6
 
+Osh Park link: https://oshpark.com/shared_projects/3ssml9ry
+
 ![brd](https://user-images.githubusercontent.com/11184076/183798085-d216d821-43e5-42b6-9997-eae688181a02.png)
